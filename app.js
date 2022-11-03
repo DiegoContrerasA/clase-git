@@ -1,1 +1,2 @@
-console.log("test")
+const name = 'Diego'
+console.log({name})
